@@ -1,7 +1,7 @@
 # ======================================================
 # Program Pengelolaan Data Nilai Mahasiswa 
 # ======================================================
-# Fitur sesuai tugas praktikum:
+# Fitur Program Pengelolaan Data Nilai Mahasiswa :
 # - List berisi data mahasiswa
 # - Hitung nilai akhir & tentukan grade
 # - Tampilkan tabel data 
