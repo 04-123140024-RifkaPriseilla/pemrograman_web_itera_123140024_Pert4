@@ -1,10 +1,10 @@
 # ======================================================
-# Program Pengelolaan Data Nilai Mahasiswa (Versi Tabel Rapi)
+# Program Pengelolaan Data Nilai Mahasiswa 
 # ======================================================
 # Fitur sesuai tugas praktikum:
 # - List berisi data mahasiswa
 # - Hitung nilai akhir & tentukan grade
-# - Tampilkan tabel data (rapi & sejajar)
+# - Tampilkan tabel data 
 # - Tambah data mahasiswa baru
 # - Cari nilai tertinggi & terendah
 # - Filter berdasarkan grade
